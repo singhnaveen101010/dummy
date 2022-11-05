@@ -1,0 +1,105 @@
+
+body{margin:0;
+text-align:center;
+}
+h1{
+  width:60%;
+   margin:0 auto ;
+   color:#4FA095;
+   font-family: 'Sacramento', cursive;
+   font-size:80px;
+}
+
+.toptext{
+  position:absolute;
+  right:150px;
+}
+a{
+   text-decoration:none;
+   color:#4FA095;
+   font-size:20px;
+   font-family:cursive;}
+
+.bottom-container{
+  background-color:#BCEAD5;
+  padding:30px;
+
+}
+hr{
+  border-style:dotted none none;
+  height:0;
+  width:6%;
+  border-color:#BCEAD5;
+  border-width:10px;
+}
+.middle-para{
+  font-family:cursive;
+  width:40%;
+}
+a:hover{
+  color:white;
+}
+h2{
+  color:#4FA095;
+  font-family:cursive;
+  font-size:30px;
+}
+.instagram{
+position:relative;
+margin-left:100px;
+}
+
+.linkedin{
+position:relative;
+margin-right:100px;
+}
+
+h3{
+  color:#4FA095;
+  font-family:cursive;
+  font-size:20px;
+}
+p{
+  margin:0 auto;
+}
+.topcontainer{
+margin-top:80px;
+padding-top:10px;
+ background-color: #BCEAD5;
+
+}
+span{
+  background-color: grey;
+}
+
+
+.contact-me{
+  padding-bottom:50px;
+  font-family:cursive;
+}
+.top-cloud{
+  position:relative;
+  left:150px;
+  }
+  .bottom-cloud{
+    position:absolute;
+  }
+
+.btn{
+  background-color:#BCEAD5;
+  padding:10px 30px;
+  position:relative;
+  top:20px;
+  color:#4FA095;
+  border-radius:6%;
+  }
+  .copyright{
+    font-family:serif;
+    position:relative;
+    padding-top:20px;
+
+  }
+  .skill{
+    font-size:20px;
+    font-family:cursive;
+  }
